@@ -1,0 +1,33 @@
+[
+	{
+		"id": 1,
+		"name": "Book",
+		"price": 1299,
+		"imgUrl": "/images/book.jpg"
+	},
+
+	{
+		"id": 2,
+		"name": "Computer",
+		"price": 89999,
+		"imgUrl": "/images/computer.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Cup",
+		"price": 499,
+		"imgUrl": "/images/cup.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Table",
+		"price": 5999,
+		"imgUrl": "/images/table.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Lamp",
+		"price": 3999,
+		"imgUrl": "/images/lamp.jpg"
+	}
+]
